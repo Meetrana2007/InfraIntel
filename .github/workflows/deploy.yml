@@ -1,4 +1,4 @@
-name: Deploy InfraGuard AI to GitHub Pages
+name: Deploy InfraIntel to GitHub Pages
 
 on:
   push:
