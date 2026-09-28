@@ -6,7 +6,7 @@ export const Footer: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center sm:text-left sm:flex sm:justify-between sm:items-center text-xs text-slate-500 gap-4">
         <div>
           <div className="flex items-center justify-center sm:justify-start gap-2 font-semibold text-slate-700 mb-1">
-            <span>InfraGuard AI</span>
+            <span>InfraIntel</span>
             <span>•</span>
             <span className="text-blue-700">Smart India Hackathon 2026 (Problem SIH26103)</span>
           </div>

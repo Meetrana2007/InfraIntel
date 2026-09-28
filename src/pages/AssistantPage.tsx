@@ -20,7 +20,7 @@ export const AssistantPage: React.FC = () => {
     {
       id: 'msg-welcome',
       sender: 'assistant',
-      text: "Hello! I am the **InfraGuard AI Project Intelligence Assistant**. I answer questions strictly grounded in the official **April 2026 PAIMANA Flash Report** dataset and calculated risk indicators.\n\nTry clicking one of the suggested sample questions below, or type your own query regarding central infrastructure projects.",
+      text: "Hello! I am the **InfraIntel Project Intelligence Assistant**. I answer questions strictly grounded in the official **April 2026 PAIMANA Flash Report** dataset and calculated risk indicators.\n\nTry clicking one of the suggested sample questions below, or type your own query regarding central infrastructure projects.",
       isGrounded: true,
       timestamp: 'Just now',
     },

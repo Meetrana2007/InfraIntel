@@ -68,7 +68,7 @@ export const DataQualityPage: React.FC = () => {
           <Info className="w-4 h-4 text-blue-600 shrink-0 mt-0.5" />
           <div className="leading-relaxed">
             <span className="font-semibold text-slate-800">Why are certain fields missing? </span>
-            In official MoSPI Flash Reports, missing fields are authentic reflections of administrative status. For example, newer projects lack legacy OCMS codes; projects on track do not have revised completion dates; and certain projects may have pending quarterly physical measurement certification. InfraGuard AI respects these gaps as 'N/A' rather than synthesizing false numbers.
+            In official MoSPI Flash Reports, missing fields are authentic reflections of administrative status. For example, newer projects lack legacy OCMS codes; projects on track do not have revised completion dates; and certain projects may have pending quarterly physical measurement certification. InfraIntel respects these gaps as 'N/A' rather than synthesizing false numbers.
           </div>
         </div>
       </div>

@@ -1,4 +1,4 @@
-# InfraGuard AI
+# InfraIntel
 
 > **"From Project Monitoring to Proactive Risk Intelligence"**  
 > AI-Powered Predictive Infrastructure Project Monitoring & Early Warning System  
@@ -25,8 +25,8 @@ PAIMANA and official monthly Flash Reports provide crucial snapshots of current 
 3. Comparative benchmarking across peer sectors and geographic regions requires manual compilation.
 4. Administrative officers lack an interactive sandbox to test policy interventions ("What if we expedite clearances by 6 months?").
 
-### The InfraGuard AI Solution:
-InfraGuard AI introduces an **intelligence and decision-support layer** on top of PAIMANA:
+### The InfraIntel Solution:
+InfraIntel introduces an **intelligence and decision-support layer** on top of PAIMANA:
 ```
 PAIMANA DATA
       ↓
@@ -47,7 +47,7 @@ DECISION SUPPORT & WHAT-IF SIMULATION
 
 ## 2. Fundamental PAIMANA Differentiation
 
-| Dimension | PAIMANA (MoSPI Portal) | InfraGuard AI (Intelligence Layer) |
+| Dimension | PAIMANA (MoSPI Portal) | InfraIntel (Intelligence Layer) |
 | :--- | :--- | :--- |
 | **Primary Objective** | Statutory project monitoring, progress reporting, and milestone tracking. | Risk signal extraction, automated early warnings, and decision support. |
 | **Data Nature** | Descriptive snapshot of current progress, costs, and timeline status. | Diagnostic analytics, compound risk indices, and peer group cohort benchmarking. |
@@ -58,7 +58,7 @@ DECISION SUPPORT & WHAT-IF SIMULATION
 
 ## 3. Dataset Structure & Fields
 
-InfraGuard AI is strictly designed around the authentic schema of the official **MoSPI PAIMANA April 2026 Flash Report**:
+InfraIntel is strictly designed around the authentic schema of the official **MoSPI PAIMANA April 2026 Flash Report**:
 
 ```typescript
 export interface Project {

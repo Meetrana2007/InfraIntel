@@ -30,7 +30,7 @@ export const Navbar: React.FC = () => {
           </div>
           <div>
             <div className="flex items-center gap-2">
-              <span className="text-lg font-bold tracking-tight text-slate-900">InfraGuard AI</span>
+              <span className="text-lg font-bold tracking-tight text-slate-900">InfraIntel</span>
               <span className="text-[10px] uppercase font-bold tracking-wider px-1.5 py-0.5 bg-blue-50 text-blue-700 border border-blue-200 rounded">
                 v1.0 Demo
               </span>

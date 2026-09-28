@@ -1,4 +1,4 @@
-// Core Schema Definitions for InfraGuard AI
+// Core Schema Definitions for InfraIntel
 // Aligned with the official MoSPI / PAIMANA Flash Report (April 2026)
 
 export interface Project {

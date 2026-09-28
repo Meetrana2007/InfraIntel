@@ -31,7 +31,7 @@ export const MethodologyPage: React.FC = () => {
           "The current prototype does not claim validated predictive accuracy because the provided report is primarily a snapshot rather than a complete longitudinal training dataset."
         </p>
         <p className="text-[11px] text-amber-800 leading-relaxed">
-          InfraGuard AI utilizes a transparent, deterministic mathematical risk assessment engine built directly on the parameters reported in the April 2026 PAIMANA Flash Report. It does not fabricate training accuracy figures or represent heuristic indicators as a validated ML model without historical monthly time-series data.
+          InfraIntel utilizes a transparent, deterministic mathematical risk assessment engine built directly on the parameters reported in the April 2026 PAIMANA Flash Report. It does not fabricate training accuracy figures or represent heuristic indicators as a validated ML model without historical monthly time-series data.
         </p>
       </div>
 
@@ -42,10 +42,10 @@ export const MethodologyPage: React.FC = () => {
             System Position & Role Clarity
           </span>
           <h2 className="text-lg font-bold text-slate-900 mt-1">
-            InfraGuard AI is an Intelligence Augmentation Layer, NOT a PAIMANA Replacement
+            InfraIntel is an Intelligence Augmentation Layer, NOT a PAIMANA Replacement
           </h2>
           <p className="text-xs text-slate-500 mt-1 leading-relaxed">
-            PAIMANA (operated by IPMD / MoSPI) serves as the official national repository for continuous project monitoring and agency progress submissions. InfraGuard AI operates atop this data to provide automated risk signal detection, cross-project benchmarking, and decision support.
+            PAIMANA (operated by IPMD / MoSPI) serves as the official national repository for continuous project monitoring and agency progress submissions. InfraIntel operates atop this data to provide automated risk signal detection, cross-project benchmarking, and decision support.
           </p>
         </div>
 
@@ -76,7 +76,7 @@ export const MethodologyPage: React.FC = () => {
             {/* Step 3 */}
             <div className="bg-blue-600 text-white p-3 rounded-xl shadow-xs">
               <span className="text-[10px] font-bold text-blue-200 block">INTELLIGENCE</span>
-              <span className="text-xs font-bold mt-0.5 block">InfraGuard AI</span>
+              <span className="text-xs font-bold mt-0.5 block">InfraIntel</span>
               <span className="text-[10px] text-blue-100 mt-1 block">Multi-indicator Engine</span>
             </div>
 
@@ -98,7 +98,7 @@ export const MethodologyPage: React.FC = () => {
               <tr className="bg-slate-100/80 text-slate-700 font-semibold border-b border-slate-200">
                 <th className="p-3">Attribute</th>
                 <th className="p-3">PAIMANA (MoSPI Official Portal)</th>
-                <th className="p-3 text-blue-900 bg-blue-50/50">InfraGuard AI (Intelligence Layer)</th>
+                <th className="p-3 text-blue-900 bg-blue-50/50">InfraIntel (Intelligence Layer)</th>
               </tr>
             </thead>
             <tbody className="divide-y divide-slate-200 text-slate-600">
@@ -138,7 +138,7 @@ export const MethodologyPage: React.FC = () => {
             Deterministic Indicator Formulations & Weighting
           </h2>
           <p className="text-xs text-slate-500 mt-1">
-            InfraGuard AI calculates four normalized sub-scores (0 to 100) before computing a configurable weighted composite score.
+            InfraIntel calculates four normalized sub-scores (0 to 100) before computing a configurable weighted composite score.
           </p>
         </div>
 

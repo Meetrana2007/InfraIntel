@@ -38,7 +38,7 @@ export interface AssistantQueryResponse {
 }
 
 /**
- * API Client Layer for InfraGuard AI.
+ * API Client Layer for InfraIntel.
  * Fully API-ready: Structured matching FastAPI REST design endpoints.
  * Currently uses high-performance deterministic local execution on PAIMANA April 2026 data.
  */
@@ -396,7 +396,7 @@ export class ApiService {
 
     // Default grounded fallback
     return {
-      answer: "The available PAIMANA report data does not contain this information. InfraGuard AI is strictly grounded in the official April 2026 PAIMANA Flash Report dataset. You can ask queries regarding projects, costs, expenditures, states, ministries, physical progress, schedule revisions, risk signals, or data quality.",
+      answer: "The available PAIMANA report data does not contain this information. InfraIntel is strictly grounded in the official April 2026 PAIMANA Flash Report dataset. You can ask queries regarding projects, costs, expenditures, states, ministries, physical progress, schedule revisions, risk signals, or data quality.",
       isGroundedInReport: false,
     };
   }

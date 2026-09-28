@@ -175,11 +175,11 @@ export const DashboardPage: React.FC = () => {
             <div className="flex items-center gap-2">
               <ShieldCheck className="w-5 h-5 text-emerald-400" />
               <h3 className="text-sm font-bold tracking-wide uppercase">
-                InfraGuard AI Intelligence Layer
+                InfraIntel Intelligence Layer
               </h3>
             </div>
             <p className="text-xs text-blue-100 max-w-3xl leading-relaxed">
-              PAIMANA shows current project conditions. InfraGuard AI analyzes reported cost adjustments, completion date revisions, physical progress milestones, and expenditure ratios to generate explainable early warning signals.
+              PAIMANA shows current project conditions. InfraIntel analyzes reported cost adjustments, completion date revisions, physical progress milestones, and expenditure ratios to generate explainable early warning signals.
             </p>
           </div>
           <div className="flex items-center gap-3 shrink-0">

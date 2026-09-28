@@ -97,11 +97,11 @@ export const Sidebar: React.FC = () => {
         </div>
       </div>
 
-      {/* PAIMANA vs InfraGuard AI Differentiator Callout */}
+      {/* PAIMANA vs InfraIntel Differentiator Callout */}
       <div className="p-4 border-t border-slate-100 bg-slate-50/50">
         <div className="text-[11px] text-slate-500">
           <span className="font-semibold text-slate-700 block mb-0.5">Role Distinction:</span>
-          <span>PAIMANA records project state; InfraGuard AI evaluates risk signals & decision triggers.</span>
+          <span>PAIMANA records project state; InfraIntel evaluates risk signals & decision triggers.</span>
         </div>
       </div>
     </aside>
